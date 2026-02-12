@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Feb 12 14:01:56 2026
+[*]
+[dumpfile] "/home/taka/ISHI_Kai/bfCPU/simpleCounter/SIM/tb.vcd"
+[dumpfile_mtime] "Thu Feb 12 13:58:22 2026"
+[dumpfile_size] 3827
+[savefile] "/home/taka/ISHI_Kai/bfCPU/simpleCounter/SIM/tb.gtkw"
+[timestart] 134100
+[size] 1484 861
+[pos] -1 -1
+*-16.920538 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 278
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 248
+@28
+tb.u_TOP.RES
+tb.u_TOP.CLK
+@22
+tb.u_TOP.counter[7:0]
+@29
+tb.u_TOP.counter_min
+@28
+tb.u_TOP.counter_max
+@22
+tb.u_TOP.DOUT[7:0]
+@28
+tb.u_TOP.LOAD
+@22
+tb.u_TOP.DIN[7:0]
+@28
+tb.u_TOP.UP
+tb.u_TOP.DN
+tb.u_TOP.OVF
+tb.u_TOP.UDF
+[pattern_trace] 1
+[pattern_trace] 0
