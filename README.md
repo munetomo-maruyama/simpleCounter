@@ -13,5 +13,5 @@ cd SIM
 ```
 To show the waveform...<br>
 ```bash
-gtkwave tb.vcd tb.gtks
+gtkwave tb.vcd tb.gtkw
 ```
