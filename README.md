@@ -8,6 +8,7 @@ $ sudo apt install iverilog gtkwave
 ```
 To start simulation...<br>
 ```bash
+$ cd SIM
 $ ./go_sim
 ```
 To show the waveform...<br>
